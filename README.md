@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently studying **React.JS, Wordpress and TypeScript**
+- 🌱 I’m currently studying **React.JS and Python**
 
 - 📫 You can reach me at : **david.blot9@gmail.com**
 
