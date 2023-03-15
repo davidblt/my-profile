@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **React.JS and Python**
 
-- 📫 You can reach me at : **david.blot9@gmail.com**
+- 📫 You can reach me at : **d.nguyenblot@gmail.com**
 
 - 📄 You can find my resume on : [linkedin.com/in/davidblot/](linkedin.com/in/davidblot/)
 
